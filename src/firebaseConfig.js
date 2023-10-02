@@ -7,12 +7,12 @@ import { getFirestore, query, getDocs, collection, where, addDoc } from "firebas
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "xxxx",
-  authDomain: "xxxx",
-  projectId: "xxxx",
-  storageBucket: "xxx",
-  messagingSenderId: "xxx",
-  appId: "xxx"
+  apiKey: "xxxxyyy",
+  authDomain: "xxxxyyy",
+  projectId: "xxxxyyy",
+  storageBucket: "xxxyyy",
+  messagingSenderId: "xxxyyy",
+  appId: "xxxyyy"
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
