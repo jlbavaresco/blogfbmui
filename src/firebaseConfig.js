@@ -7,11 +7,11 @@ import { getFirestore, query, getDocs, collection, where, addDoc } from "firebas
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "xxxxyyy",
-  authDomain: "xxxxyyy",
-  projectId: "xxxxyyy",
-  storageBucket: "xxxyyy",
-  messagingSenderId: "xxxyyy",
+  apiKey: "xxxxyyyaaa",
+  authDomain: "xxxxyyyaaa",
+  projectId: "xxxxyyyaaa",
+  storageBucket: "xxxyyyaaa",
+  messagingSenderId: "xxxyyyaaa",
   appId: "xxxyyy"
 };
 
